@@ -1,0 +1,6 @@
+numpy
+scipy
+cmasher
+matplotlib
+astropy
+gaiadr3-zeropoint
