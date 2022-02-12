@@ -18,8 +18,8 @@ import astropy.units as u
 from astropy.io import ascii
 from astropy.coordinates import SkyCoord
 from astropy.table import Table, Column, vstack
-from astroquery.utils.tap.core import TapPlus
-from astroquery.simbad import Simbad
+#from astroquery.utils.tap.core import TapPlus
+#from astroquery.simbad import Simbad
 
 from zero_point import zpt
 zpt.load_tables()
